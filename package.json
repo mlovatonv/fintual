@@ -1,0 +1,17 @@
+{
+  "name": "fintual",
+  "version": "1.0.0",
+  "repository": "git@github.com:mlovatonv/fintual.git",
+  "author": "Maria <mlovatonv@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {}
+}
